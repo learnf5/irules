@@ -1,3 +1,6 @@
+This file has been provided to aid in copy and paste of iRules code. Below are all the Proposed Solutions iRules proivded in the iRules Lab Manual in the Instructions tab.
+If you encounter issues with keyboard commands Ctrl+C and Ctrl+V to copy and paste, use the cursor right-click menu to perform the copy and paste commands.
+
 ---------------------------------------------
 iRules-C1-SA05: Lab: Configure a Simple iRule
 
